@@ -1,4 +1,4 @@
 # test_git
 
-- [ ] test01
-- [ ] test02
+- [x] test01
+- [x] test02
